@@ -9,10 +9,9 @@
   padding: 10px;
   border-left: 5px solid green;
   background-color: purple;
-  & h1{
+  & #heading{
     font-size: 20px;
     color: white;
     text-decoration: underline;
-    
   }
 }
